@@ -1,2 +1,3 @@
 # Power_Rate_adaptation
 Power_Rate_adaptation
+https://www.notion.so/POWER_RATE_ADAPTATION_FOR_URLLC-1fedcf682c0680e7bd2edfc303ee31e9?source=copy_link
